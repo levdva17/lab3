@@ -1,0 +1,28 @@
+* 6875bef 2025-11-18 readme edited| 
+|  redme.md | 30 ++++++++++++++++++++++++++----
+|  1 file changed, 26 insertions(+), 4 deletions(-)
+
+* 208d935 2025-11-18 log album added| 
+|  log_album_1.csv | 20 ++++++++++++++++++++
+|  1 file changed, 20 insertions(+)
+
+* 6cf6b0c 2025-11-18 html, css added| 
+|  LICENCE.md     |  2 +-
+|  src/index.html | 26 ++++++++++++++++++++++++++
+|  src/style.css  | 19 -------------------
+|  src/styles.css | 44 ++++++++++++++++++++++++++++++++++++++++++++
+|  4 files changed, 71 insertions(+), 20 deletions(-)
+
+| * add8294 2025-11-18 html css dodany
+|/  |   
+|    index.html | 31 +++++++++++++++++++++++++++++++
+|    info.txt   |  0
+|    style.css  | 54 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+|    3 files changed, 85 insertions(+)
+
+* 9ef5031 2025-11-18 repo init  
+   LICENCE.md      |  21 +++++++++++++++++++++
+   redme.md        |  19 +++++++++++++++++++
+   src/nasa_01.png | Bin 0 -> 47867877 bytes
+   src/style.css   |  19 +++++++++++++++++++
+   4 files changed, 59 insertions(+)
