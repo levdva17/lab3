@@ -3,7 +3,8 @@ body {
     margin: auto;
 }
 
-nav, footer {
+nav,
+footer {
     background-color: #707078;
     padding: 10px;
     color: white;
@@ -27,7 +28,8 @@ a:visited {
     color: inherit;
 }
 
-header, main{
+header,
+main {
     background-color: #8DA7BE;
     color: white;
     padding: 10px;
@@ -40,5 +42,10 @@ header, main{
     margin-bottom: 15px;
 
 
-} 
+}
 
+img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 12px;
+}
