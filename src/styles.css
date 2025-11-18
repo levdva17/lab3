@@ -1,0 +1,44 @@
+body {
+    background-color: #CDE6F5;
+    margin: auto;
+}
+
+nav, footer {
+    background-color: #707078;
+    padding: 10px;
+    color: white;
+    min-width: 100%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: inherit;
+}
+
+header, main{
+    background-color: #8DA7BE;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 60%;
+    border-radius: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+
+} 
+
